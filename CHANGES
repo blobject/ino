@@ -1,0 +1,10 @@
+legend:
+"cmp" = implemented fully (per designer's whim; not final)
+"prt" = implemented partially
+"add" = modified with additions
+"fix" = modified to eliminate error
+"imp" = modified as improvement
+" * " = non-design, holistic, or miscellaneous update
+
+000:
+- [*] 18 Sep 2018: start thinking seriously about ino
