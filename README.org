@@ -2,13 +2,23 @@
 
 *** about
 
-*ino* is a fixed-width outline typeface, designed by *[[https://agaric.net/about][type agaric]]*.
+*ino* is a fixed-width outline typeface, designed by [[https://b.agaric.net/about][type agaric]].
 
 Free to use, peruse, and diffuse. Everything (font files, glyph designs, glyph databases, and documentation) is released under the [[https://raw.githubusercontent.com/agarick/ino/master/LICENSE][MIT license]].
 
 *** status
 
-/pre-alpha: development of ino has just started - stay tuned!/
+/pre-alpha -- stay tuned!/
+
+[[NOTES][NOTES]]
+
+[[CHANGES][CHANGES]]
+
+*** name
+
+According to legend, [[https://en.wikipedia.org/wiki/Ino_(Greek_mythology)][Ino]] of "the beautiful ankles" was sister to Agave and Autonoë of the house of Kadmos. Ino nursed and raised the infant Dionysus, who was her nephew and a divine son of Zeus. Hera, out of jealousy, drove the Kadmeian queen insane and the latter lept into the sea while holding onto her own son Melicertes. Out of pity, the Olympians turned the mother and son into sea gods. Ino was thus a mortal queen who became a goddess. And together with her aforementioned sisters, she is the culmination of Dionysian insanity, mystery, and tragedy. She is also associated with the overcoming of mortality and the power of the sea.
+
+But most importantly, for the purposes of this project, she had beautiful ankles (even if our typeface is sans-serif). Also, her sister Agave shares a name with *type agaric*'s [[https://github.com/agarick/agave][first typogenic project]].
 
 *** discussion
 

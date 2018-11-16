@@ -15,7 +15,7 @@
    version="1.1"
    id="svg4759"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="template.svg">
+   sodipodi:docname="b.svg">
   <defs
      id="defs4753" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42236328"
-     inkscape:cx="512"
+     inkscape:cx="152.12023"
      inkscape:cy="1024"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -98,5 +98,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,244.8667)" />
+     transform="translate(0,244.8667)">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458427;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 148.16667,-62.833362 c -42.84104,0 -69.320836,32.01458 -69.320836,32.01458 V -160.20003 H 33.866667 v 355.6 h 44.979167 v -27.78125 c 0,0 26.479796,32.01458 69.320836,32.01458 63.12764,0 114.3,-58.75475 114.3,-131.233333 0,-72.4785783 -51.17377,-131.233329 -114.3,-131.233329 z m 0,44.97916 c 38.2857,0 69.32083,38.618299 69.32083,86.254169 0,47.635873 -31.03637,86.254163 -69.32083,86.254163 -51.990239,0 -69.320836,-41.01041 -69.320836,-41.01041 V 23.156219 c 0,0 17.328322,-41.010421 69.320836,-41.010421 z"
+       id="path4815"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccccccszsszsccs" />
+  </g>
 </svg>

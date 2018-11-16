@@ -1,8 +1,18 @@
 Summer 2018:
-- Saw Norwegian Air's "n" in-flight magazine and fell in love with its go-to monospace. Cannot figure out the name of the face.
+- See Norwegian Air's "n" in-flight magazine and fall in love with its go-to monospace. Cannot figure out the name of the face.
 - Decide to make a face that resembles above.
-- Love the "l", "o", "s", "t", "n", x-height. But want to improve on "j", width/bearing. Really want to implement italic and bold.
-- Want to abide by geometric simplicity and programmer friendliness.
+- Love the "l", "o", "s", "t", "n", x-height. But want to improve on "j", width, bearing. Really want to implement italic and bold.
+- Want to abide by geometric simplicity and coding friendliness.
+
 18 Sep 2018:
 - Name it "Ino", Agave and Autonoe's sister. Will be a learning project, as a continuation of Agave.
 - Start closely studying Futura and similar geometric sans-serifs.
+
+25 Sep 2018:
+- Find out the font I had encountered is Apercu Mono.
+- Decide to go ahead with design of Ino, a lookalike but with some glyphs tweaked and accompanied by different styles and weights.
+- Decide to closely study Apercu, Circular, Akkurat Mono, and Replica Mono.
+
+15 Nov 2018:
+- Decide to use metapost for consistent, assured, and (hopefully) faster glyph generation.
+- Start studying metafont and metapost. Feeding metapost's result into fontforge could be scripted, so only the source and feed code need to be published.
