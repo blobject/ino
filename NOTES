@@ -16,3 +16,7 @@ Summer 2018:
 15 Nov 2018:
 - Decide to use metapost for consistent, assured, and (hopefully) faster glyph generation.
 - Start studying metafont and metapost. Feeding metapost's result into fontforge could be scripted, so only the source and feed code need to be published.
+
+31 Aug 2019:
+- Stumble upon https://github.com/hatsumatsu/Lab-Mono which looks pretty much exactly like what I wanted to make (ie. Apercu Mono).
+- Decide to fallback to secondary design idea. (Which is what?)
