@@ -7,4 +7,24 @@ legend:
 " * " = non-design, holistic, or miscellaneous update
 
 000:
-- [*] 18 Sep 2018: start thinking seriously about ino
+- [*] 17 oct 2020:
+  - See DPDHL's Delivery font https://www.dpdhl-brands.com/dhl/en/guides/design-basics/typography/typography.html. Consider adapting it to monospace.
+- [*] 31 aug 2019:
+  - Stumble upon https://github.com/hatsumatsu/Lab-Mono which looks pretty much exactly like what I wanted to make (ie. Apercu Mono).
+  - Decide to fallback to secondary design idea. (Which is what?)
+- [*] 15 nov 2018:
+  - Decide to use metapost for consistent, assured, and (hopefully) faster glyph generation.
+  - Start studying metafont and metapost. Feeding metapost's result into fontforge could be scripted, so only the source and feed code need to be published.
+- [*] 25 sep 2018:
+  - Find out the font I had encountered is Apercu Mono.
+  - Decide to go ahead with design of Ino, a lookalike but with some glyphs tweaked and accompanied by different styles and weights.
+  - Decide to closely study Apercu, Circular, Akkurat Mono, and Replica Mono.
+- [*] 18 sep 2018:
+  - Name it "Ino", Agave and Autonoe's sister. Will be a learning project, as a continuation of Agave.
+  - Start closely studying Futura and similar geometric sans-serifs.
+- [*] summer 2018:
+  - See Norwegian Air's "n" in-flight magazine and fall in love with its go-to monospace. Cannot figure out the name of the face.
+  - Decide to make a face that resembles above.
+  - Love the "l", "o", "s", "t", "n", x-height. But want to improve on "j", width, bearing. Really want to implement italic and bold.
+  - Want to abide by geometric simplicity and coding friendliness.
+
