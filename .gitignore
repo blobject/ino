@@ -1,3 +1,5 @@
+.hg/
+.hgignore
 *.log
 *.mps
 build/plain.mp
