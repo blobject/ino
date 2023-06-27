@@ -7,6 +7,8 @@ legend:
 " * " = non-design, holistic, or miscellaneous update
 
 000:
+- [*] 16 aug 2021:
+  - Decide to do an original design. Serifed, like Courier, with smaller x-height, thicker strokes, more deliberate serifs, and prettier shapes.
 - [*] 17 oct 2020:
   - See DPDHL's Delivery font https://www.dpdhl-brands.com/dhl/en/guides/design-basics/typography/typography.html. Consider adapting it to monospace.
 - [*] 31 aug 2019:
